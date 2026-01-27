@@ -31,12 +31,12 @@ Soy un **Ingeniero en Sistemas Computacionales** especializado en crear sistemas
 - **Tech Stack:** Next.js, Tailwind CSS y gestión de estado avanzada.
 - **Foco:** Optimización de conversión (CRO) y experiencia de usuario sofisticada.
 
-#### ⚡ [Tesla Landing Page](https://github.com/KevinCalvillo/tesla-landing-page) | [🚀 Live Demo](https://KevinCalvillo.github.io/tesla-landing-page)
+#### ⚡ [Tesla Landing Page](https://github.com/KevinCalvillo/tesla-landing-page) | [Live Demo](https://kevincalvillo.github.io/tesla-landing/)
 - **Descripción:** Réplica de alta fidelidad de la interfaz de Tesla con acabado pixel-perfect.
 - **Tech Stack:** Angular (Standalone) y manejo eficiente de activos multimedia.
 - **Logro:** Optimización del rendimiento mediante carga diferida (lazy loading).
 
-#### 🎮 [Pokedex V2](https://github.com/KevinCalvillo/pokedex-v2) | [🚀 Live Demo](https://KevinCalvillo.github.io/pokedex-v2)
+#### 🎮 [Pokedex V2](https://github.com/KevinCalvillo/pokedex-v2) | [Live Demo](https://kevincalvillo.github.io/PokedexV2/)
 - **Descripción:** Enciclopedia Pokémon moderna con consumo de PokeAPI en tiempo real.
 - **Foco:** Interfaz reactiva, búsqueda dinámica y filtrado avanzado de tipos.
 - **Tech Stack:** React / Angular.
@@ -45,7 +45,7 @@ Soy un **Ingeniero en Sistemas Computacionales** especializado en crear sistemas
 - App multiplataforma (Flutter/Firebase) para la rehabilitación de personas amputadas.
 - Implementación de flujos CI/CD y análisis estadístico de progreso (Tesis UAA).
 
-#### 🐾 [Sistema Refugio de Mascotas](https://github.com/KevinCalvillo)
+#### 🐾 [Sistema Refugio de Mascotas](https://github.com/KevinCalvillo) | [Live Demo](https://kevincalvillo.github.io/placoRefugio/home)
 - Digitalización de procesos de adopción con dashboard en tiempo real.
 - Aumento de la eficiencia operativa en un **60%** mediante automatización.
 
@@ -59,7 +59,7 @@ Soy un **Ingeniero en Sistemas Computacionales** especializado en crear sistemas
 ---
 
 ### 📫 Conectemos
-* **LinkedIn:** [LinkedIn](www.linkedin.com/in/kevcalvillo)
+* **LinkedIn:** [Kevin Calvilo](www.linkedin.com/in/kevcalvillo)
 * **Email:** [kevincalvillo26@gmail.com](mailto:kevincalvillo26@gmail.com)
 
 ---
