@@ -59,7 +59,7 @@ Soy un **Ingeniero en Sistemas Computacionales** especializado en crear sistemas
 ---
 
 ### 📫 Conectemos
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+* **LinkedIn:** [LinkedIn](www.linkedin.com/in/kevcalvillo)
 * **Email:** [kevincalvillo26@gmail.com](mailto:kevincalvillo26@gmail.com)
 
 ---
