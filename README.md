@@ -25,7 +25,7 @@ Soy un **Ingeniero en Sistemas Computacionales** especializado en crear sistemas
 
 ### 🌟 Proyectos Destacados
 
-#### 👢 [KC Boots](https://github.com/KevinCalvillo) (In Development)
+#### 👢 [KC Boots](https://github.com/KevinCalvillo) | [Live Demo](https://kc-boots-mzlx9llqx-kevcalvillos-projects.vercel.app/)
 *Plataforma de E-commerce Premium*
 - **Concepto:** Tienda especializada en calzado de alta calidad con una interfaz minimalista.
 - **Tech Stack:** Next.js, Tailwind CSS y gestión de estado avanzada.
